@@ -1,9 +1,3 @@
-Submitted by:
-Name 1: Shreyas Srinivasan 
-Student ID: 200255421
-Name 2: Santhosh Ravisankar 
-Student ID: 200261510
-
 Environment: Use python 3
 
 Execution:
